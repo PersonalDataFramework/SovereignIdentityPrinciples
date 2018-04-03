@@ -231,6 +231,7 @@ ____
 [https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) and see: 
 [https://www.loomio.org/d/Wnwo2auX/update-rebillofrights-by-integrating-self-sovereign-identity-bill-of-rights](https://www.loomio.org/d/Wnwo2auX/update-rebillofrights-by-integrating-self-sovereign-identity-bill-of-rights)
 
+(This post is adapted from Chris Allen’s sublime blog post, The Path to Self-Sovereign Identity )
 
 ## The Self-Sovereign Identity Bill of Rights
 
