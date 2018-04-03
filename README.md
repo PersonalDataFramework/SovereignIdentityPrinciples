@@ -223,3 +223,40 @@ ____
 [1] The five entity types are: People, Devices, Organizations, Code and Agents. (definition source: the Jericho Forum)
 
 [2] Remembering that risk will probably be bi-directional and both entities in a transaction will share the risk, though usually disproportionally.
+
+
+------------------------------------------
+
+# Update #REBillOfRights by integrating Self-sovereign Identity Bill of Rights
+[https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) and see: 
+[https://www.loomio.org/d/Wnwo2auX/update-rebillofrights-by-integrating-self-sovereign-identity-bill-of-rights](https://www.loomio.org/d/Wnwo2auX/update-rebillofrights-by-integrating-self-sovereign-identity-bill-of-rights)
+
+
+## The Self-Sovereign Identity Bill of Rights
+
+Individuals must be able to establish their existence as a unified identity online and in the physical world. A unified identity requires that people not only have an online presence, but that presence must function seamlessly across both online and real-world environments. One unified identity for all spheres of life.
+
+Individuals must have the tools to access and control their identities. Self-sovereign identity holders must be able to easily retrieve identity attributes and verified claims as well as any metadata that has been generated in the process of transactions. There can be no personally identifiable information (PII) data that is hidden from the identity holder. This includes management, updating or changing identity attributes, and keeping private what they choose.
+
+The platforms and protocols on which self-sovereign identities are built, must be open and transparent. This refers to how the platforms and protocols are governed, including how they are managed and updated. They should be open-source, well-known, and as independent as possible of any particular architecture; anyone should be able to examine how they work.
+
+Users must have the right to participate in the governance of their identity infrastructure. The platform, protocols on which self-sovereign identities are built, must be governed by identity holders. By definition, if the platform is governed by a private entity or limited set of participants, the Identity holder is not in control of the future of their identity.
+
+Identities must exist for the life of the identity holder. While the platform and protocols evolve, each singular identity must remain intact. This must not contradict a “right to be forgotten”; a user should be able to dispose of an identity if he or she wishes and claims should be modified or removed as appropriate over time. To do this requires a firm separation between an identity and its claims: they can’t be tied forever.
+
+Identities must be portable. Identity attributes and verified claims must be controlled personally and be transportable and interoperable as desired. Government entities, companies and other individuals can come and go. So it is essential that identity holders can move their identity data to other blockchains or platforms to ensure that they alone control their identity.
+
+Identities must be interoperable. identity holders must be able to us their identities in all facets of their lives. So any identity platform or protocol must function across geographical, political and commercial jurisdictions. Identities should be as widely usable as possible. Ultimately, identities are of little value if they only work in niches.
+
+Individuals must consent to the use of their identity. The point of having an identity is that you can use it to participate in mutually beneficial transactions — whether personal or commercial. This requires that some amount of personal information needs to be shared. However, any sharing of personal data must require the absolute consent of the user — even if third parties have a record of previously verified claims. For every transaction associate with a claim, the identity holder must deliberately consent to its use.
+
+Disclosure of verified claims must be minimized. For every transaction, only the minimum amount of personally identifiable information should be required and shared. If an identity holder wants to enable an age-related commercial transaction, e.g. buy alcohol, the only verified claim that needs to be share is whether they are over 21. There is not need to share actual age, street address, height, weight, etc.
+
+The rights of identity holders must supersede any other platform or ecosystem entities. If a conflict arises between the needs of the platform or entities engaging with identity holders, the governance must be designed to err on the side of preserving these rights for identity holder over the needs of the protocols, platform or network. To ensure this, identity authentication must be decentralized, independent, and free of censorship.
+Join us to discuss our self-sovereign bill of rights:
+
+Twitter: lifeid_io
+
+Discord: https://discord.gg/ZdbQMsR
+
+Newsletter: lifeid.io
